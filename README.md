@@ -1,2 +1,4 @@
 # project1-aditya
-This is my first Repository
+This is my first GIt Repository
+<br>
+Authoe -Aditya 
